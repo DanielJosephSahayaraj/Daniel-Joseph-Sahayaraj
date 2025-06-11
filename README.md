@@ -6,4 +6,4 @@ Data Scientist with a Master’s in Data Science & Analytics and AWS Solutions A
 - Fine-tuned BERT for stock market sentiment analysis  
 - Built real-time streaming pipelines with AWS and Kafka  
 - Created Power BI dashboards for business analytics  
-📫 **Connect**: [LinkedIn] https://www.linkedin.com/in/daniel-joseph-sahayaraj-aws-engineer/ | [Email] mailto:danielmichaeraj@gmail.com
+📫 **Connect**: [LinkedIn] (https://www.linkedin.com/in/daniel-joseph-sahayaraj-aws-engineer/) | [Email] (mailto:danielmichaeraj@gmail.com)
